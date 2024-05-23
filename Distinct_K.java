@@ -19,7 +19,6 @@ public class Test{
             
             if(count == k){
                 System.out.println(arr[i]);
-                return;
             }
         }
         System.out.println("");
