@@ -1,3 +1,5 @@
+# Kadane's Algorithm is used to find the maximum sum of the subarray
+
 def max_subarray(arr):
   max_so_far = arr[0]
   max_end = arr[0]
