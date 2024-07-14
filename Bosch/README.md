@@ -1,1 +1,1 @@
-## Bosch Data Struture Algorithm
+## Bosch - Data Struture Algorithm
