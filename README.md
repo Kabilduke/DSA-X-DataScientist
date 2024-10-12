@@ -13,8 +13,6 @@ The implementations are available in multiple programming languages, including b
 
 - [Python](./python)
 - [Java](./java)
-- [C++](./cpp)
-- [JavaScript](./javascript)
 
 Choose a language directory to explore the implementations in that language.
 
