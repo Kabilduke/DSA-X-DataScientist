@@ -1,5 +1,4 @@
 # NLP
-
 def syllable_count(text):
     word = text.lower()
     count = 0
@@ -19,3 +18,6 @@ def syllable_count(text):
 word = " enable"
 result = syllable_count(word)
 print(result)
+
+
+#Output: 2
