@@ -15,7 +15,7 @@ def syllable_count(text):
         count += 1
     return count
 
-word = " enable"
+word = "enable"
 result = syllable_count(word)
 print(result)
 
