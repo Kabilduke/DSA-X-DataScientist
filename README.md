@@ -1,4 +1,3 @@
-# Leetcode-150
 # Algorithms and Data Structures (DSA)
 
 This repository contains implementations of various algorithms and data structures in different programming languages. It serves as a resource for learning and understanding fundamental concepts in computer science.
@@ -27,5 +26,5 @@ The repository includes implementations of various algorithms and data structure
 
 Feel free to explore the directories and files to learn more about each implementation.
 
-Courses:
+### Courses recommendation:
 - [Sololearn](https://www.sololearn.com/certificates/CC-FEXVXLQO)
