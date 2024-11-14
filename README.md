@@ -27,12 +27,5 @@ The repository includes implementations of various algorithms and data structure
 
 Feel free to explore the directories and files to learn more about each implementation.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have additional implementations, improvements, or corrections, please feel free to submit a pull request. Make sure to follow the contribution guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## License
-
-This repository is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code for personal and commercial projects.
-
-
+Courses:
+- [Sololearn](https://www.sololearn.com/certificates/CC-FEXVXLQO)
