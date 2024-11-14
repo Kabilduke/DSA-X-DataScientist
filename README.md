@@ -26,5 +26,5 @@ The repository includes implementations of various algorithms and data structure
 
 Feel free to explore the directories and files to learn more about each implementation.
 
-### Courses recommendation:
-- [Sololearn](https://www.sololearn.com/certificates/CC-FEXVXLQO)
+### Certification:
+- [Python](https://www.sololearn.com/certificates/CC-FEXVXLQO)
