@@ -15,6 +15,6 @@ def bag_of_words(s):
   return Bag
 
 
-s = 'Natural Language Processing is easy and fun to learn. Natural Language Processing help to understand the meaning of text"
+s = 'Natural Language Processing is easy and fun to learn. Natural Language Processing help to understand the meaning of text.'
 Bag_words = bag_of_words(s)
 print("Bag of Words:", Bag_words)
