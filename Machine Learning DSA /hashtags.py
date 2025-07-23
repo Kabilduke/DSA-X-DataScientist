@@ -20,3 +20,6 @@ for post in posts:
 hastag_counts = Counter(tags)
 most_common = hastag_counts.most_common()
 print("Most commonly used hastags:",most_common[0][0])
+
+#output
+Most commonly used hastags: update
